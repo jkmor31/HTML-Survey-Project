@@ -1,0 +1,35 @@
+body {
+    background-color: #cba;
+  }
+  
+  #title {
+    text-align: center;
+    margin: 40px;
+  }
+  
+  p {
+    text-align: center;
+    font-size: 20px;
+    font-family: monospace;
+  }
+
+  form {
+      border: black 2px solid;
+      margin: auto;
+      width: 600px;
+      display: block;
+  }
+
+  label {
+    font-size: 20px;
+    font-family: monospace;
+    line-height: 30px;
+  }
+  
+  #survey-form {
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial;
+      padding: 20px;
+  
+  }
